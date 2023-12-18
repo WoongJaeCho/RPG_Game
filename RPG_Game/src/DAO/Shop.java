@@ -1,6 +1,10 @@
-package _rpg;
+package DAO;
 
 import java.util.ArrayList;
+
+import VO.Item;
+import VO.Player;
+import _rpg.MainGame;
 
 public class Shop {
 	ArrayList<Item> itemList = new ArrayList<>();

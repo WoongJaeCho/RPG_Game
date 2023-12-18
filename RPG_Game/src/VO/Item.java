@@ -1,4 +1,4 @@
-package _rpg;
+package VO;
 
 public class Item {
 	static final int WEAPON = 1;

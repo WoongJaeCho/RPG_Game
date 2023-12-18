@@ -1,6 +1,10 @@
-package _rpg;
+package DAO;
 
 import java.util.ArrayList;
+
+import VO.Player;
+import VO.Unit;
+import _rpg.MainGame;
 
 public class Guild {
 	final int PARTY_SIZE = 4;

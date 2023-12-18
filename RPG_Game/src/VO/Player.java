@@ -1,6 +1,9 @@
-package _rpg;
+package VO;
 
 import java.util.ArrayList;
+
+import DAO.Guild;
+import DAO.Inventory;
 
 public class Player {
 	static int money;
